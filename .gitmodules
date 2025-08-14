@@ -1,0 +1,3 @@
+[submodule "Accelerator-Brake-negative-torque"]
+	path = Accelerator-Brake-negative-torque
+	url = https://github.com/yangyihai/Accelerator-Brake-negative-torque.git
